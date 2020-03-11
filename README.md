@@ -1,0 +1,1 @@
+Kaikkien viikkojen oppimispäiväkirjat löytyvät tiedostosta JODA2020Oppimispaivakirja.ipynb
